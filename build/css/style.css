@@ -743,6 +743,11 @@ body.locked {
     padding: 0 20px;
   }
 
+  .main-btn {
+    min-width: 228px;
+    min-height: 46px;
+  }
+
   .section-head {
     margin-bottom: 30px;
   }
@@ -827,11 +832,6 @@ body.locked {
 
   .hero__info {
     row-gap: 20px;
-  }
-
-  .hero__btn {
-    min-width: 228px;
-    min-height: 46px;
   }
 
   .cards {

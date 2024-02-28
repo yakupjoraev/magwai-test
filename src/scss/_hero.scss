@@ -83,10 +83,5 @@
 
   // .hero__btn
 
-  &__btn {
-    @media (max-width: $breakpoint768) {
-      min-width: 228px;
-      min-height: 46px;
-    }
-  }
+  &__btn {}
 }

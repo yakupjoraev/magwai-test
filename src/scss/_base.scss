@@ -53,6 +53,11 @@
       }
     }
   }
+
+  @media (max-width: $breakpoint768) {
+    min-width: 228px;
+    min-height: 46px;
+  }
 }
 
 .second-btn {
